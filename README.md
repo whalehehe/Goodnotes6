@@ -1,4 +1,4 @@
-# Goodnotes Local — v12
+# Goodnotes ipad
 
 A modified Goodnotes 7.1.28 IPA focused on local document use, optional guest access, and cloud-provider backup.
 
@@ -33,9 +33,9 @@ A modified Goodnotes 7.1.28 IPA focused on local document use, optional guest ac
 ## Install and test
 
 1. Keep a verified, editable document backup.
-2. Re-sign the [v12 IPA](Goodnotes-7.1.28-offline-v12-RESIGN-REQUIRED.ipa) and its nested components in eSign with your certificate/profile.
+2. Re-sign the .ipa and its nested components in Sideload apps with your certificate/profile.
 3. Use the native skip-sign-in option if available; existing signed-in state is not automatically converted to guest mode.
 4. Import a small PDF, edit it, close/reopen the app, and confirm the edit persists.
 5. Test one Google Drive/OneDrive backup and verify the uploaded file before increasing your library size.
 
-See [technical notes](offline-v12-notes.md) and the [patch manifest](offline-v12-patch-manifest.json) for exact changes and verification details.
+
