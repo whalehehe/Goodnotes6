@@ -2,7 +2,7 @@
 
 A modified Goodnotes 7.1.28 IPA focused on local document use, optional guest access, and cloud-provider backup.
 
-**Status: experimental. Static checks passed; v12 has not been tested on the iPad.**
+**Tested on iPadOS 27.0**
 
 ## Features
 
